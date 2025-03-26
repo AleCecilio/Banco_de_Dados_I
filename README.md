@@ -1,1 +1,1 @@
-Arquivos Feitos nas aulas de Banco de Dados I da Faculdade
+Arquivos feitos nas aulas de Banco de Dados I da Faculdade
